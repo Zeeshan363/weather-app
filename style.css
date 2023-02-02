@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container_main {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.parent_to_all {
+    height: 100vh;
+}
+
+input{
+    font-size: 20px;
+    padding: 8px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.container {
+    font-size: 20px;
+}
+
+.container span {
+    padding: 0px 10px;
+}
